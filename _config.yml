@@ -52,7 +52,6 @@ about_content: | # this will include new lines to allow paragraphs
   chapter. I can analyze Malware and can write YARA rules for extracting signatures of malware. I've also got the skills of memory forensics.
   I am most skilled in: <mark>Threat Hunting</mark> Darkweb Monitoring <mark>Malware Analysis</mark> Reverse Engineering <mark> Memory Forensics </mark> Yara Rules
 
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -69,9 +68,10 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Signature based malware detection tool.
+         Signature based malware detection tool.
         description: | # this will include new lines to allow paragraphs
           Aghor is a signature based malware detection tool. Aghor is a signature-based malware detection tool. Which utilizes the capabilities of Yara to identify that the given file is malicious or not.
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
