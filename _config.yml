@@ -110,6 +110,26 @@ content:
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      
+    - title: Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Aghor
+        link: github.com/imendax
+        # link_text: Project Website
+        additional_links:
+          - title:  imendax/Aghor
+            icon: fab fa-github
+            url: github.com/imendax/Aghor
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Signature based malware detection tool.
+        description: | # this will include new lines to allow paragraphs
+          Aghor is a signature based malware detection tool. Aghor is a signature-based malware detection tool. Which utilizes the capabilities of Yara to identify that the given file is malicious or not.
+
 
 # Footer
 footer_show_references: true
