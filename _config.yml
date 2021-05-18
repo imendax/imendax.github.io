@@ -86,6 +86,18 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           My task as a Associate Threat Researcher includes build and maintain targets that allow for the efficient and accurate collection of information of threat intelligence value in order to satisfy research requirements. Monitor specific cyber threat actors or groups to understand their tactics, techniques, and procedures.Monitor specific cyber threat actors or groups to understand their tactics, techniques, and procedures. Tracking cybercrime and hacktivism threats in EMEA based on based on technical analysis, forums and social media monitoring, and publicly available sources.
+         layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Confidential
+        link: themalhunt.wordpress.com
+        # link_text: boringcompany.com
+        sub_title:   Digital Forensics & Incident Investigator – Freelance (NDA)
+        caption: May 2021 - Present
+        quote: > #quote
+          
+        description: | # this will include new lines to allow paragraphs
+          Performed the Digital Forensics & Incident response investigation for the client.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
