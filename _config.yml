@@ -12,7 +12,7 @@ email: 0xlakshya.re@gmail.com
 website: https://themalhunt.wordpress.com/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
@@ -115,7 +115,13 @@ content:
       - Rock climbing
       - Gaming
       - Knitting
-      
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+        
 
      
       
