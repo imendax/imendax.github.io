@@ -15,14 +15,14 @@ website: https://themalhunt.wordpress.com/
 darkmode: true
 
 # Social links
-twitter_username: twitter.com/0xlsd
+twitter_username: 0xlsd?s=09
 #github_username: mmmm 
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: lakshya_dubey
+linkedin_username: lakshya-dubey-aa2187140
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -31,7 +31,7 @@ linkedin_username: lakshya_dubey
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: themalhunt.wordpress.com
   icon:  fas fa-blog
   url: https://themalhunt.wordpress.com/
 # - title: another link
