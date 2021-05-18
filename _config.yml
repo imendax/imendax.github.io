@@ -72,7 +72,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           Aghor is a signature based malware detection tool. Aghor is a signature-based malware detection tool. Which utilizes the capabilities of Yara to identify that the given file is malicious or not.
 
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -85,50 +84,24 @@ content:
         quote: >
           Hunting 21st century threats using my skills and tools *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            My task as a Associate Threat Researcher includes build and maintain targets that allow for the efficient and accurate collection of information of threat intelligence value in order to satisfy research requirements. Monitor specific cyber threat actors or groups to understand their tactics, techniques, and procedures.Monitor specific cyber threat actors or groups to understand their tactics, techniques, and procedures. Tracking cybercrime and hacktivism threats in EMEA based on based on technical analysis, forums and social media monitoring, and publicly available sources. 
-   - title: Education # Title for the section
+            My task as a Associate Threat Researcher includes build and maintain targets that allow for the efficient and accurate collection of information of threat intelligence value in order to satisfy research requirements. Monitor specific cyber threat actors or groups to understand their tactics, techniques, and procedures.Monitor specific cyber threat actors or groups to understand their tactics, techniques, and procedures. Tracking cybercrime and hacktivism threats in EMEA based on based on technical analysis, forums and social media monitoring, and publicly available sources.
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: RGPV University
         caption: 2018 - 2021
-        sub_title: Btech Computer Science
-        quote: > #quote
-                
-        description: | # this will include new lines to allow paragraphs
-          Mostly I'm self-thought, during my college time I tried to learn various skills including Malware Analysis, Threat Hunting, Darkweb Monitoring, Yara Rules, Memory Forensics, etc. At the same time, I've successfully published two different research papers and presented spoked at national and international conferences. .
+        sub_title: BTech Computer Science
+        quote: >
+                  description: | # Mostly I'm self-thought, during my college time I tried to learn various skills including Malware Analysis, Threat Hunting, Darkweb Monitoring, Yara Rules, Memory Forensics, etc. At the same time, I've successfully published two different research papers and presented spoked at national and international conferences. .
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-  - title: Skills
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      My Skills:
-      - Threat Hunting
-      - Malware Analysis
-      - DarkWeb Monitoring
-      - Memory Forensics
-      - Yara Rules
-      - Technical Presentations
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-        
-
-     
+      Alongside my interests in security, some of my other interests and hobbies are:
+      - Computer Games
+      - Exploring Computer Hardware
       
- 
 
 # Footer
 footer_show_references: true
