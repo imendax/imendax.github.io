@@ -102,6 +102,17 @@ content:
       Alongside my interests in security, some of my other interests and hobbies are:
       - Computer Games
       - Exploring Computer Hardware
+  - title: Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      My Skills:
+      - Threat Hunting
+      - Malware Analysis
+      - DarkWeb Monitoring
+      - Memory Forensics
+      - Yara Rules
+      - Technical Presentations
+   
       
 
 # Footer
