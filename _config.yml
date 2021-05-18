@@ -86,19 +86,6 @@ content:
           Hunting 21st century threats using my skills and tools *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             My task as a Associate Threat Researcher includes build and maintain targets that allow for the efficient and accurate collection of information of threat intelligence value in order to satisfy research requirements. Monitor specific cyber threat actors or groups to understand their tactics, techniques, and procedures.Monitor specific cyber threat actors or groups to understand their tactics, techniques, and procedures. Tracking cybercrime and hacktivism threats in EMEA based on based on technical analysis, forums and social media monitoring, and publicly available sources. 
-   - title: Experience # Title for the section
-     layout: list # Type of content section (list/text)
-     content:
-       - layout: left
-         title: The Boring Company
-         link: boringcompany.com
-         # link_text: boringcompany.com
-         sub_title: Associate Threat Researcher
-         caption: May 7 - Present
-         quote: >
-           Hunting 21st century threats using my skills and tools *not a flamethrower*
-         description: | # this will include new lines to allow paragraphs
-             My task as a Associate Threat Researcher includes build and maintain targets that allow for the efficient and accurate collection of information of threat intelligence value in order to satisfy research requirements. Monitor specific cyber threat actors or groups to understand their tactics, techniques, and procedures.Monitor specific cyber threat actors or groups to understand their tactics, techniques, and procedures. Tracking cybercrime and hacktivism threats in EMEA based on based on technical analysis, forums and social media monitoring, and publicly available sources.     
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
