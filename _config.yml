@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Lakshya and I'm a Associate Threat Researcher and an enduring learner of technology and security enthusiasts. Currently a final year computer science student (Bachelors of Technology), also one of the respected chapter leaders in the Null Open Security community, and OWASP Bhopal, India
+  Hi, my name's Lakshya and I'm a Associate Threat Researcher and an enduring learner of technology. Currently a final year computer science student (Bachelors of Technology), also one of the respected chapter leaders in the Null Open Security community, and OWASP Bhopal, India
   chapter. I can analyze Malware and can write YARA rules for extracting signatures of malware. I've also got the skills of memory forensics.
   I am most skilled in: <mark>Threat Hunting</mark> Darkweb Monitoring <mark>Malware Analysis</mark> Reverse Engineering <mark> Memory Forensics </mark> Yara Rules
 
@@ -100,15 +100,18 @@ content:
         title: RGPV University
         caption: 2018 - 2021
         sub_title: BTech Computer Science
-        quote: >
-                  description: | # Mostly I'm self-thought, during my college time I tried to learn various skills including Malware Analysis, Threat Hunting, Darkweb Monitoring, Yara Rules, Memory Forensics, etc. At the same time, I've successfully published two different research papers and presented spoked at national and international conferences. .
+        quote: > #quote
+        description: | #
+                  Mostly I'm self-thought, during my college time I tried to learn various skills including Malware Analysis, Threat Hunting, Darkweb Monitoring, Yara Rules, Memory Forensics, etc. At the same time, I've successfully published two different research papers and presented spoked at national and international conferences. .
 
-  - title: A Little More About Me
+  - title: Speaker & Research Papers
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in security, some of my other interests and hobbies are:
-      - Computer Games
-      - Exploring Computer Hardware
+      - Speaker “BSides Connecticut” (2020)
+      - Speaker “AppSec Indonesia” (2020)
+      - Speaker “BSides Maharashtra” (2020)
+      - Research Paper: Identifying the malware persistence using advance static and advance dynamic methods (Scopus Journal) (Lakshaya Dubey)
+      - Signature and Heuristic Approach of Malware Detection (Virtual Online National Conferences 2020)
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
