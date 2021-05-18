@@ -78,10 +78,10 @@ content:
     content:
       - layout: left
         title: The Boring Company
-        link: boringcompany.com
+        link: themalhunt.wordpress.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Associate Threat Researcher
+        caption: May 2021 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
